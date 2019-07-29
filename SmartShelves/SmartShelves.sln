@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartShelves", "SmartShelves\SmartShelves.csproj", "{B970582C-E737-468F-979C-1AC163280AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B970582C-E737-468F-979C-1AC163280AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B970582C-E737-468F-979C-1AC163280AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B970582C-E737-468F-979C-1AC163280AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B970582C-E737-468F-979C-1AC163280AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D3F6F2-E663-4E18-95EA-827D4FC64D81}
+	EndGlobalSection
+EndGlobal
