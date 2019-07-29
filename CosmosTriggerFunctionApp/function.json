@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "cosmosDBTrigger",
+      "name": "input",
+      "direction": "in",
+      "connectionStringSetting": "aspricedb_DOCUMENTDB",
+      "databaseName": "PricesDb",
+      "collectionName": "PricesList",
+      "leaseCollectionName": "leases",
+      "createLeaseCollectionIfNotExists": true
+    }
+  ]
+}
